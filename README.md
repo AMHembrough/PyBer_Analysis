@@ -7,9 +7,9 @@ The purpose of this analysis was to determine how ride sharing data differs by c
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 	
 Total rides for each city type are as follows:
-o	Rural : 125
-o	Suburban : 625
-o	Urban : 1625
+- Rural : 125
+- Suburban : 625
+- Urban : 1625
 
 -	Total drivers for each city type are as follows:
 o	Rural : 78
